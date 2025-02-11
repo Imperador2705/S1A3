@@ -1,6 +1,6 @@
 const userModel={
   name: String,
   email: String,
-  passord: String
+  password: String
 };
 module.express=userModel;
